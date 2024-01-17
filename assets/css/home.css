@@ -1,0 +1,28 @@
+#to-add-barang
+{
+	border : 1px solid black;
+	width : 200px;
+	margin-top : 20px;
+	margin-bottom : 20px;
+	margin-left : 20px;
+}
+
+.kolom-kiri
+{
+	padding-left : 10px;
+	padding-right : 10px;
+}
+.kolom-kanan
+{
+	padding-left : 10px;
+	padding-right : 10px;
+}
+
+#insert-barang, #update-barang
+{
+	margin-top : 20px;
+}
+.empty-input
+{
+	border : 1px solid red;
+}
